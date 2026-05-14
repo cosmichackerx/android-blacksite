@@ -29,7 +29,28 @@ You should:
 - define reusable composables
 - define navigation structure
 
+**Figma Screenshot → Cursor Prompt**
+```
+Analyze this UI carefully.
 
+Recreate it in Jetpack Compose with:
+- exact spacing
+- responsive layout
+- clean Material 3 architecture
+- reusable composables
+- production-grade code
+- proper typography hierarchy
+- smooth animations
+- dark/light theme support
+- no hardcoded dimensions unless necessary
+
+Use:
+- Kotlin
+- Jetpack Compose
+- Material 3
+
+Return complete code.
+```
 
 **Here are the most effective, token-efficient prompting templates for Cursor** (especially useful on Pro plan):
 
