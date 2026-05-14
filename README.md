@@ -1,6 +1,25 @@
 # android-blacksite
 A tactical Android development playbook containing elite prompts, workflows, UI strategies, debugging systems, and AI-assisted engineering techniques for building production-grade apps at hackathon speed
 
+### Your Full Stack Should Be
+Kotlin
+Jetpack Compose
+Material 3
+MVVM
+Navigation Compose
+Hilt
+Retrofit/Ktor
+Coil
+Room
+Coroutines + Flow
+ViewModel
+Clean Architecture
+
+
+
+
+
+
 **Here are the most effective, token-efficient prompting templates for Cursor** (especially useful on Pro plan):
 
 ### 1. Universal Strong Structure (Best All-Rounder)
