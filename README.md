@@ -17,7 +17,17 @@ A tactical Android development playbook containing elite prompts, workflows, UI 
 - Clean Architecture
 
 
+You should:
 
+- provide screenshots
+- define architecture
+- define design system
+- define spacing rules
+- define typography
+- define responsiveness
+- define performance constraints
+- define reusable composables
+- define navigation structure
 
 
 
