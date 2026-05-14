@@ -52,6 +52,23 @@ Use:
 Return complete code.
 ```
 
+**Use This Structure**
+```
+ui/
+components/
+screens/
+theme/
+navigation/
+viewmodel/
+repository/
+network/
+utils/
+
+clean architecture:
+data/
+domain/model,extensions,utils
+presentation/activities,fragments,adapters,customviews,di
+```
 **Here are the most effective, token-efficient prompting templates for Cursor** (especially useful on Pro plan):
 
 ### 1. Universal Strong Structure (Best All-Rounder)
