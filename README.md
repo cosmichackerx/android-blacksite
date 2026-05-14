@@ -69,6 +69,20 @@ data/
 domain/model,extensions,utils
 presentation/activities,fragments,adapters,customviews,di
 ```
+
+**For Precise UI/UX Replication**
+
+Compose handles:
+- padding
+- alignment
+- responsiveness
+- animations
+- themes
+
+MUCH better with AI generation.
+
+XML becomes messy fast.
+
 **Here are the most effective, token-efficient prompting templates for Cursor** (especially useful on Pro plan):
 
 ### 1. Universal Strong Structure (Best All-Rounder)
