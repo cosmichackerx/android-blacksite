@@ -6,7 +6,7 @@ A tactical Android development playbook containing elite prompts, workflows, UI 
 [One clear sentence what you want]
 
 ## Context
-- Tech stack: [e.g. Next.js 15, TypeScript, Tailwind, shadcn]
+- Tech stack: [Android,Kotlin,Xml,Jetpack Compose]
 - Reference files: @file1.tsx @folder/utils
 
 ## Current Behavior
