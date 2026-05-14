@@ -83,6 +83,20 @@ MUCH better with AI generation.
 
 XML becomes messy fast.
 
+
+**our Secret Weapon**
+
+Prepare reusable prompts like:
+
+1. UI Clone Prompt
+2. Architecture Prompt
+3. Bug Fix Prompt
+4. Performance Optimization Prompt
+5. Animation Prompt
+6. API Integration Prompt
+7. Code Refactor Prompt
+8. “Make this production-grade” Prompt
+
 **Here are the most effective, token-efficient prompting templates for Cursor** (especially useful on Pro plan):
 
 ### 1. Universal Strong Structure (Best All-Rounder)
