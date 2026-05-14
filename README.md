@@ -7,7 +7,7 @@ A tactical Android development playbook containing elite prompts, workflows, UI 
 
 ## Context
 - Tech stack: [Android,Kotlin,Xml,Jetpack Compose]
-- Reference files: @file1.tsx @folder/utils
+- Reference files: overall the project
 
 ## Current Behavior
 [Describe what's happening now]
